@@ -6,4 +6,4 @@ compatibility_flags = [ "nodejs_compat" ]
 [[d1_databases]]
 binding = "UPTIMEFLARE_D1"
 database_name = "uptimeflare_d1"
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "66a312fc-4f87-4631-a438-623b4e4b5916"
