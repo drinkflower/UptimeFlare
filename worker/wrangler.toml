@@ -15,3 +15,6 @@ class_name = "RemoteChecker"
 [[migrations]]
 tag = "v1"
 new_sqlite_classes = ["RemoteChecker"]
+
+[triggers]
+crons = ["* * * * *"]
